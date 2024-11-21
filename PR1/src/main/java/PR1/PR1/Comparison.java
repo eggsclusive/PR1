@@ -1,5 +1,7 @@
 package PR1.PR1;
 
+//Students Riad Zoabi (211830369) and Yonatan Mattar (315957571)
+
 public class Comparison {
 
     //Modular function to check if number
